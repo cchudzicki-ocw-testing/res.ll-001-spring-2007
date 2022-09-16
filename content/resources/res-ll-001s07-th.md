@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-ll-001-introduction-to-radar-systems-spring-2007/68fd6d84d7c2efebf728ecfbe7d9b0a7_res-ll-001s07-th.jpg
+file: /media/courses/res-ll-001-introduction-to-radar-systems-spring-2007/68fd6d84d7c2efebf728ecfbe7d9b0a7_res-ll-001s07-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The sequential lobing radar, described in Lecture 9, uses a time sequence
@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Diagram of a radar dish, projecting two identically-shaped beam patterns
     slightly offset from one another around a target axis.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-ll-001s07-th.jpg
